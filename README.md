@@ -26,7 +26,8 @@ Here’s all the stack I’ve worked with in the last couple of years.
   <p>🎮 <strong><a href="https://github.com/priverop/JUSToolkit">JUSToolkit</a></strong> - <em>Translation tools for Jump Ultimate Stars!</em></p>
   <p>👾 <strong><a href="https://github.com/priverop/infinite-stack">Infinite Stack</a></strong> - <em>[WIP] Incremental videogame.</em></p>
   <p>🕹️ <strong><a href="https://github.com/stars/priverop/lists/my-romhacking-tools">Videogame Modding Tools</a></strong> - <em>Tools I made for some translation projects.</em></p>
-  <p>🐕 <strong><a href="https://github.com/priverop/petchallenge">Pet Challenge</a></strong> - <em>Technical assestment I did for a React position.</em></p>
+  <p>🚅 <strong><a href="https://github.com/priverop/trainline-scraper">Trainline Scraper</a></strong> - <em>Technical assestment for a Ruby position.</em></p>
+  <p>🐕 <strong><a href="https://github.com/priverop/petchallenge">Pet Challenge</a></strong> - <em>Technical assestment for a React position.</em></p>
   <p>🏗️ <strong><a href="https://github.com/priverop/RetailManager">Retail Manager</a></strong> - <em>Final Year Project - Laravel platform to manage store construction projects.</em></p>
   <p>📝 Collaborator in <strong><a href="https://code.pleonex.dev/SceneGate">SceneGate</a></strong> - <em>Reverse Engineering tools.</em></p>
 </div>
