@@ -14,12 +14,12 @@
 </div>
 
 ### ✨ Tech Stack
-I’m a generalist developer who focuses on solid fundamentals rather than mastering one specific framework.
-Here’s the main tech stack I’ve worked with, ordered from most to least frequent.
+My main Stack is Ruby + AWS. Althought I’m a generalist developer who focuses on solid fundamentals rather than mastering one specific framework.
+Here’s all the stack I’ve worked with in the last couple of years.
 
 - **Front End:** Vue (+Nuxt), React (+Next / Vite), Typescript, AngularJS.
-- **Back End:** Ruby on Rails (or Sinatra), C#, PHP (Laravel), NodeJS (Express), Java (SpringBoot). PostgreSQL, MySQL.
-- **Cloud & DevOps:** AWS, Vercel, Terraform, Docker, Github Actions, Gitlab CI/CD, Jenkins.
+- **Back End:** Ruby on Rails (or Sinatra), C#. PostgreSQL, MySQL.
+- **Cloud & DevOps:** AWS, Vercel, Terraform, Docker, Github Actions, Gitlab CI/CD.
 
 ### 🚀 Projects
 <div align="center">
