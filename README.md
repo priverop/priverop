@@ -1,11 +1,7 @@
 <div align="center">
-  <p>👨‍💻 Tech Lead | Full Stack Software Engineering | Web development</p>
-  <p>🧗 I love climbing, <a href="https://letterboxd.com/nxx/">cinema</a> and <a href="https://lichess.org/@/n_x" target="_blank">chess</a>.</p>
-  <p>🔭 Looking for a remote position, contact me on <a href="https://www.linkedin.com/in/priverop/" target="_blank">Linkedin</a>! </p>
-  <p>🌱 Currently working on a reverse engineering <a href="https://github.com/priverop/justoolkit" target="_blank">tool</a> to translate <a href="https://tradusquare.es/proyectos/jump-ultimate-stars/" target="_blank">a videogame</a>.</p>
+  <p>👨‍💻 Senior Software Engineering | Ruby | React & Vue & Typescript</p>
+  <p>🔭 Looking for a remote position, reach me on <a href="https://linkedin.com/in/priverop/" target="_blank">LinkedIn</a>! </p>
   <p>🌍 Check my <a href="https://priverop.github.io" target="_blank">personal website</a>!</p>
-  <p>📝 Collaborator in <strong><a href="https://code.pleonex.dev/SceneGate">SceneGate</a></strong>, creating a reverse engineering videogame framework. Read more <a href="https://priverop.github.io/posts/scenegate/" target="_blank">here</a>.</p>
-</div>
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/priverop/" target="_blank">
@@ -14,20 +10,24 @@
 </div>
 
 ### ✨ Tech Stack
-My main Stack is Ruby + AWS. Althought I’m a generalist developer who focuses on solid fundamentals rather than mastering one specific framework.
-Here’s all the stack I’ve worked with in the last couple of years.
+My main Stack is **Ruby + AWS**.
 
-- **Front End:** Vue (+Nuxt), React (+Next / Vite), Typescript, AngularJS.
-- **Back End:** Ruby on Rails (or Sinatra), C#. PostgreSQL, MySQL.
-- **Cloud & DevOps:** AWS, Vercel, Terraform, Docker, Github Actions, Gitlab CI/CD.
+- **Back End:** Ruby on Rails, Sinatra, PostgreSQL, MySQL, Sidekiq, RSpec.
+- **Front End:** Vue (+Nuxt), React (+Next / Vite), TypeScript, Tailwind.
+- **Cloud & DevOps:** AWS, Terraform, Docker, Github Actions, Gitlab CI/CD, Vercel.
 
 ### 🚀 Projects
 <div align="center">
+  <p><strong><a href="https://github.com/priverop/tomtom-api-coding-challenge">TomTom API Coding Challenge</a></strong> — Rails 8 API integrating TomTom Maps for business (POI) search. 100% RSpec coverage, Docker.</p>
+  <p><strong><a href="https://github.com/priverop/trainline-scraper">Trainline Scraper</a></strong> — Ruby web scraper with Nokogiri for traveling data. 100% RSpec test coverage.</p>
+  <p><strong><a href="https://github.com/priverop/cinemapi">Cinemapi</a></strong> — Rails 8 API for cinema data. WIP.</p>
+  <p><strong><a href="https://github.com/priverop/infinite-stack">Infinite Stack</a></strong> — Incremental web game built with React 19, TypeScript, and Tailwind. WIP. </p>
+  
   <p>🎮 <strong><a href="https://github.com/priverop/JUSToolkit">JUSToolkit</a></strong> - <em>Translation tools for Jump Ultimate Stars!</em></p>
-  <p>👾 <strong><a href="https://github.com/priverop/infinite-stack">Infinite Stack</a></strong> - <em>[WIP] Incremental videogame.</em></p>
-  <p>🕹️ <strong><a href="https://github.com/stars/priverop/lists/my-romhacking-tools">Videogame Modding Tools</a></strong> - <em>Tools I made for some translation projects.</em></p>
-  <p>🚅 <strong><a href="https://github.com/priverop/trainline-scraper">Trainline Scraper</a></strong> - <em>Technical assestment for a Ruby position.</em></p>
-  <p>🐕 <strong><a href="https://github.com/priverop/petchallenge">Pet Challenge</a></strong> - <em>Technical assestment for a React position.</em></p>
-  <p>🏗️ <strong><a href="https://github.com/priverop/RetailManager">Retail Manager</a></strong> - <em>Final Year Project - Laravel platform to manage store construction projects.</em></p>
-  <p>📝 Collaborator in <strong><a href="https://code.pleonex.dev/SceneGate">SceneGate</a></strong> - <em>Reverse Engineering tools.</em></p>
+  <p>📝 Collaborator in <strong><a href="https://code.pleonex.dev/SceneGate">SceneGate</a></strong> - <em>Reverse Engineering tools.</em> Read more <a href="https://priverop.github.io/posts/scenegate/" target="_blank">here.</a></p>
+</div>
+
+### 🤺 Who am I?
+<div align="center">
+    <p>🧗 I love climbing, <a href="https://letterboxd.com/nxx/">cinema</a> and <a href="https://lichess.org/@/n_x" target="_blank">chess</a>.</p>
 </div>
